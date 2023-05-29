@@ -20,5 +20,5 @@
 		</script>
 		<script type='text/javascript' src='https://grupoboticario--devcrcmiaw.sandbox.my.site.com/ESWCRCMiawQDB1679003080777/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
 
-	<body>
-<html>
+	</body>
+</html>
