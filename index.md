@@ -8,7 +8,7 @@
 					embeddedservice_bootstrap.init(
 						'00D7d000008qeja',
 						'CRC_Teste',
-						'https://grupoboticario--devcrcmiaw.sandbox.my.site.com/ESWCRCTeste1685394885837',
+						'https://grupoboticario--devcrcmiaw.sandbox.my.site.com/ESWCRCTeste1685471244480',
 						{
 							scrt2URL: 'https://grupoboticario--devcrcmiaw.sandbox.my.salesforce-scrt.com'
 						}
@@ -18,8 +18,6 @@
 				}
 			};
 		</script>
-		<script type='text/javascript' src='https://grupoboticario--devcrcmiaw.sandbox.my.site.com/ESWCRCTeste1685394885837/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
-
-
+		<script type='text/javascript' src='https://grupoboticario--devcrcmiaw.sandbox.my.site.com/ESWCRCTeste1685471244480/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
 	</body>
 </html>
