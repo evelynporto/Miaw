@@ -7,18 +7,19 @@
 
 					embeddedservice_bootstrap.init(
 						'00D7d000008qeja',
-						'CRCMiawQDB',
-						'https://grupoboticario--devcrcmiaw.sandbox.my.site.com/ESWCRCMiawQDB1679003080777',
+						'CRC_Teste',
+						'https://grupoboticario--devcrcmiaw.sandbox.my.site.com/ESWCRCTeste1685394885837',
 						{
 							scrt2URL: 'https://grupoboticario--devcrcmiaw.sandbox.my.salesforce-scrt.com'
 						}
 					);
 				} catch (err) {
-					console.error('Error loading Embedded Messaging: ', err); 
+					console.error('Error loading Embedded Messaging: ', err);
 				}
 			};
 		</script>
-		<script type='text/javascript' src='https://grupoboticario--devcrcmiaw.sandbox.my.site.com/ESWCRCMiawQDB1679003080777/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+		<script type='text/javascript' src='https://grupoboticario--devcrcmiaw.sandbox.my.site.com/ESWCRCTeste1685394885837/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+
 
 	</body>
 </html>
