@@ -3,7 +3,7 @@
 		<script type='text/javascript'>
 			function initEmbeddedMessaging() {
 				try {
-					embeddedservice_bootstrap.settings.language = 'pt_BR'; // For example, enter 'en' or 'en-US'
+					embeddedservice_bootstrap.settings.language = 'pt_BR';
 
 					embeddedservice_bootstrap.init(
 						'00D7d000008qeja',
